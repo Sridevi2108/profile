@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SRIDEVI</h1>
 <h3 align="center">I am Sridevi, currently pursuing a Master of Computer Application at CIT, Coimbatore.Being a Passionate student, who loves to learn & crack new technologies and can work across with different domains.</h3>
 
-- 🔭 I’m currently working on **Auracare - A mental health chatbot**
+- 🔭 I’m currently working on the project **Auracare - A mental health chatbot**
 
 - 🌱 I’m currently learning **React,Django,Flask,Docker**
 
