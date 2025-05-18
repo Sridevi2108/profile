@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm SRIDEVI</h1>
 <h3 align="center">I am Sridevi, currently pursuing a Master of Computer Application at CIT, Coimbatore.Being a Passionate student, who loves to learn & crack new technologies and can work across with different domains.</h3>
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sridevi2108" alt="sridevi2108" /></a> </p>
 
 - 🔭 I’m currently working on **Auracare - A mental health chatbot**
